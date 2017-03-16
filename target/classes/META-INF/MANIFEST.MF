@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-file-upload
+Implementation-Version: 1.0
+Built-By: ashwin.chavan
+Implementation-Vendor-Id: com.upload
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ file-upload/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
